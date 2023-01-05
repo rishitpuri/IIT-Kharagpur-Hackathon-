@@ -1,4 +1,4 @@
-# IIT-Kharagpur-Hackathon-
+# IIT-Kharagpur-Hackathon-🧋
 Any drug in the US market is prescribed by the HCPs (Health Care Practitioners) to patients thereby making HCPs as the
 actual customer of a pharmaceutical company. Companies promote the drug to HCPs through multiple promotional
 channels:
